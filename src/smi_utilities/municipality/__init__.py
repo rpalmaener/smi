@@ -1,1 +1,1 @@
-from .fields import MunicipalityField
+from .municipality_fields import MunicipalityField

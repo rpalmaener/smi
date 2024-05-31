@@ -1,5 +1,5 @@
-from .fields import (
-    ElectricUtilityField,
+from .electricity_fields import (
+    ElectricityUtilityField,
     RegElectTariffTypeField,
     UnregElectTariffTypeField,
 )
